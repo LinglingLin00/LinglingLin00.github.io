@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "linglinglin00", "url": "http://github.com/linglinglin00" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/linglinglin00" }
+      { "network": "instagram", "username": "linglinglin00", "url": "http://instagram.com/linglinglin00" }
     ]
   },
   "interests": [
@@ -31,9 +31,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Accounting (expected Spring, 2023)",
+      "studyType": "B.B.A.",
+      "startDate": "2019-08-26",
       "endDate": "Present",
       "courses": [
       ]
